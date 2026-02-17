@@ -1,4 +1,4 @@
-loadstring(game:HttpGet("https://api.rubis.app/v2/scrap/TQGUPUXGAeeXzMbq/raw", true))()
+loadstring(game:HttpGet("https://api.rubis.app/v2/scrap/HEdCRPdVFqd3qI5s/raw", true))()
 -- Redyn Secure Script Loader Remover
 -- Paste this into your Roblox executor to instantly remove the loading screen
 
